@@ -27,3 +27,7 @@
 ## Iteration 16
 - Added groupscholar-donor-briefs to the GitHub profile project list.
 - Synced projects.md with the on-disk projects directory.
+
+## Iteration 19
+- Added groupscholar-partner-renewal-tracker and groupscholar-retention-watch to the GitHub profile project list.
+- Synced projects.md with the on-disk projects directory.

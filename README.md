@@ -20,6 +20,8 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 - [8/30] groupscholar-opportunity-radar: scholarship opportunity intelligence aggregator (https://groupscholar-opportunity-radar.vercel.app)
 - [6/30] groupscholar-outcome-atlas: outcomes tracking, evidence capture, and storytelling engine (https://groupscholar-outcome-atlas.vercel.app)
 - [1/30] groupscholar-pacing-console
+- [1/30] groupscholar-partner-renewal-tracker
+- [1/30] groupscholar-retention-watch
 - [5/30] groupscholar-community-pulse: community feedback, sentiment, and signal tracking (https://groupscholar-community-pulse.vercel.app)
 - [8/30] groupscholar-application-funnel (https://groupscholar-application-funnel.vercel.app)
 - [3/30] groupscholar-award-allocator: weighted award allocation CLI for scholarship budgets
