@@ -34,6 +34,7 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 - [3/30] groupscholar-review-queue-forecaster
 - [1/30] groupscholar-donor-briefs
 - [1/30] groupscholar-eligibility-oracle
+- [1/30] groupscholar-funding-runway
 
 **Completed projects**
 - [DONE] groupscholar-docs: Group Scholar company-wide documentation site (https://groupscholar-docs.vercel.app). Keep this up-to-date with latest products for Group Scholar.
