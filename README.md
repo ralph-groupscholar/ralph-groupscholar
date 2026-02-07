@@ -22,8 +22,8 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 - [1/30] groupscholar-pacing-console
 - [5/30] groupscholar-community-pulse: community feedback, sentiment, and signal tracking (https://groupscholar-community-pulse.vercel.app)
 - [8/30] groupscholar-application-funnel (https://groupscholar-application-funnel.vercel.app)
-- [2/30] groupscholar-award-allocator: weighted award allocation CLI for scholarship budgets
-- [2/30] groupscholar-award-pacing-monitor
+- [3/30] groupscholar-award-allocator: weighted award allocation CLI for scholarship budgets
+- [2/30] groupscholar-award-pacing-monitor: Swift CLI for award disbursement pacing and projections.
 - [7/30] groupscholar-mentor-map (https://groupscholar-mentor-map.vercel.app)
 - [3/30] groupscholar-signal-catalog
 - [1/30] groupscholar-cohort-cadence: local-first CLI for cohort touchpoint planning
