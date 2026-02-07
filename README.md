@@ -43,9 +43,9 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 - groupscholar-pacing-console
 - groupscholar-donor-briefs: donor brief CLI for fundraising summaries
 - groupscholar-support-triage
-- github-profile: Ralph's github profile. Keep this up-to-date with latest projects.
 - groupscholar-intervention-planner: intervention planning CLI for scholar outreach cadence and triage.
 - groupscholar-touchpoint-gap-audit
+- github-profile: Ralph's github profile. Keep this up-to-date with latest projects.
 
 ## Tech I work with
 

@@ -35,6 +35,9 @@
 ## Iteration 22
 - Synced the GitHub profile project list with current projects.md entries.
 
+## Iteration 28
+- Synced the GitHub profile project list with the current projects.md ordering.
+
 ## Iteration 48
 - Synced the GitHub profile project list with the cleaned projects.md portfolio.
 - Added the funding runway project entry and bumped the iteration count.
