@@ -21,7 +21,7 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 - [6/30] groupscholar-outcome-atlas: outcomes tracking, evidence capture, and storytelling engine (https://groupscholar-outcome-atlas.vercel.app)
 - [1/30] groupscholar-pacing-console
 - [1/30] groupscholar-partner-renewal-tracker
-- [1/30] groupscholar-retention-watch
+- [1/30] groupscholar-retention-watch: retention risk scoring CLI for scholar check-ins.
 - [5/30] groupscholar-community-pulse: community feedback, sentiment, and signal tracking (https://groupscholar-community-pulse.vercel.app)
 - [8/30] groupscholar-application-funnel (https://groupscholar-application-funnel.vercel.app)
 - [3/30] groupscholar-award-allocator: weighted award allocation CLI for scholarship budgets
@@ -32,8 +32,8 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 - [2/30] groupscholar-intake-normalizer: local-first intake CSV normalizer and summary reporter
 - [3/30] groupscholar-review-latency-lab
 - [3/30] groupscholar-review-queue-forecaster
-- [1/30] groupscholar-donor-briefs
-- [1/30] groupscholar-eligibility-oracle
+- [1/30] groupscholar-donor-briefs: donor brief CLI for fundraising summaries
+- [1/30] groupscholar-eligibility-oracle: eligibility rule audit CLI for scholarship intake CSVs.
 - [1/30] groupscholar-funding-runway
 
 **Completed projects**
