@@ -23,3 +23,7 @@
 ## Iteration 15
 - Added groupscholar-eligibility-oracle to the GitHub profile project list.
 - Synced projects.md with the on-disk projects directory.
+
+## Iteration 16
+- Added groupscholar-donor-briefs to the GitHub profile project list.
+- Synced projects.md with the on-disk projects directory.
