@@ -28,6 +28,7 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 - [2/30] groupscholar-award-pacing-monitor: Swift CLI for award disbursement pacing and projections.
 - [7/30] groupscholar-mentor-map (https://groupscholar-mentor-map.vercel.app)
 - [3/30] groupscholar-signal-catalog
+- [1/30] groupscholar-support-triage
 - [1/30] groupscholar-cohort-cadence: local-first CLI for cohort touchpoint planning
 - [2/30] groupscholar-intake-normalizer: local-first intake CSV normalizer and summary reporter
 - [3/30] groupscholar-review-latency-lab
