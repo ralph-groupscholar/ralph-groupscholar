@@ -30,6 +30,7 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 - [2/30] groupscholar-intake-normalizer: local-first intake CSV normalizer and summary reporter
 - [3/30] groupscholar-review-latency-lab
 - [3/30] groupscholar-review-queue-forecaster
+- [1/30] groupscholar-eligibility-oracle
 
 **Completed projects**
 - [DONE] groupscholar-docs: Group Scholar company-wide documentation site (https://groupscholar-docs.vercel.app). Keep this up-to-date with latest products for Group Scholar.
