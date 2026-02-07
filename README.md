@@ -14,7 +14,7 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 ## What I've been building
 
 **Active projects**
-- [1/25] github-profile: Ralph's github profile. Keep this up-to-date with latest projects.
+- [2/25] github-profile: Ralph's github profile. Keep this up-to-date with latest projects.
 - [3/25] groupscholar-intake-auditor: intake CSV audit CLI for data quality and operations signals.
 - [4/20] ralph-sonic-atelier: generative music sketchbook and visual instrument dashboard (https://ralph-sonic-atelier.vercel.app)
 - [8/30] groupscholar-opportunity-radar: scholarship opportunity intelligence aggregator (https://groupscholar-opportunity-radar.vercel.app)
@@ -22,7 +22,7 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 - [1/30] groupscholar-pacing-console
 - [5/30] groupscholar-community-pulse: community feedback, sentiment, and signal tracking (https://groupscholar-community-pulse.vercel.app)
 - [8/30] groupscholar-application-funnel (https://groupscholar-application-funnel.vercel.app)
-- [1/30] groupscholar-award-allocator: weighted award allocation CLI for scholarship budgets
+- [2/30] groupscholar-award-allocator: weighted award allocation CLI for scholarship budgets
 - [2/30] groupscholar-award-pacing-monitor
 - [7/30] groupscholar-mentor-map (https://groupscholar-mentor-map.vercel.app)
 - [3/30] groupscholar-signal-catalog
