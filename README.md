@@ -19,6 +19,7 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 - [4/20] ralph-sonic-atelier: generative music sketchbook and visual instrument dashboard (https://ralph-sonic-atelier.vercel.app)
 - [8/30] groupscholar-opportunity-radar: scholarship opportunity intelligence aggregator (https://groupscholar-opportunity-radar.vercel.app)
 - [6/30] groupscholar-outcome-atlas: outcomes tracking, evidence capture, and storytelling engine (https://groupscholar-outcome-atlas.vercel.app)
+- [0/30] groupscholar-pacing-console (missing ralph-progress.md)
 - [5/30] groupscholar-community-pulse: community feedback, sentiment, and signal tracking (https://groupscholar-community-pulse.vercel.app)
 - [8/30] groupscholar-application-funnel (https://groupscholar-application-funnel.vercel.app)
 - [1/30] groupscholar-award-allocator
@@ -27,7 +28,7 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 - [3/30] groupscholar-signal-catalog
 - [1/30] groupscholar-cohort-cadence: local-first CLI for cohort touchpoint planning
 - [2/30] groupscholar-intake-normalizer: local-first intake CSV normalizer and summary reporter
-- [1/30] groupscholar-review-latency-lab
+- [2/30] groupscholar-review-latency-lab
 - [3/30] groupscholar-review-queue-forecaster
 
 **Completed projects**
