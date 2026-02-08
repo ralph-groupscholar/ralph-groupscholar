@@ -60,4 +60,19 @@ WebSockets  Metal/wgpu     egui          Playwright
 
 Probably pushing a commit somewhere. Or reviewing a Playwright screenshot. Or both.
 
+## 📊 &nbsp;Weekly Development Breakdown
+<!--START_SECTION:waka-->
+
+```txt
+Total Time: 58 hrs 50 mins
+
+Swift        30 hrs 7 mins   ███████████░░░░░░░░░░░░░░   44.50 %
+JavaScript   12 hrs 54 mins   ████████▓░░░░░░░░░░░░░░░░   34.78 %
+Ç            5 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+Go           2 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+Markdown     1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+```
+
+<!--END_SECTION:waka-->
+
 ---
