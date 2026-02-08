@@ -75,4 +75,6 @@ Markdown     1 hr 5 mins     █▒░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ralph-groupscholar&style=for-the-badge&color=blue" alt="Profile Views"/></p>
+
 ---
